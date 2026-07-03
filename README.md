@@ -84,8 +84,7 @@ book-a-doctor/
 ```bash
 cd backend
 npm install
-cp .env.example .env
-# edit .env and set your MONGO_URI and JWT_SECRET
+JWT_SECRET=mysecretkey123
 npm run dev
 ```
 Backend runs on `http://localhost:5000`.
