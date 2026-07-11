@@ -6,7 +6,7 @@ A full healthcare appointment booking platform built with **MongoDB, Express.js,
 
 *(Watch the live demo of the Book A Doctor application below)*
 
-👉 **[Watch the Demo Video Here](https://github.com/mahathi1989/book-a-doctor/issues/1#issue-4863120936)** 👈
+👉 **[Watch the Demo Video Here](https://1drv.ms/v/c/206b36028f664188/IQBWPxJYmmjyS5HCNSVOWd_fAfPDHKGaj64DYBv8iR155z0?e=3TtbjQ)** 👈
 
 ---
 
