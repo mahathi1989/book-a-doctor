@@ -2,7 +2,19 @@
 
 A full healthcare appointment booking platform built with **MongoDB, Express.js, React, and Node.js**, following the **MVC architecture** described in the project requirements.
 
-🌐 **Live Demo:** https://book-a-doctor-xi.vercel.app
+## 🎥 Project Demo
+
+*(Watch the live demo of the Book A Doctor application below)*
+
+👉 **[Watch the Demo Video Here](YOUR_DEMO_VIDEO_LINK)** 👈
+
+---
+
+## 🌐 Live Application
+
+*(Access the fully deployed application here)*
+
+👉 **[Access the Live Project Here](https://book-a-doctor-xi.vercel.app)** 👈
 
 ## Features
 
